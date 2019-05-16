@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jayer1-U2-ParkingApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/jayer1-U2-ParkingApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
